@@ -1,3 +1,5 @@
+📌 Semester 7
+
 # Nutritional Navigator
 This project focuses on optimizing dietary plans to support healthier living by analyzing nutritional data and using optimization techniques. The aim is to maximize nutrient intake while adhering to caloric and other dietary constraints.
 
